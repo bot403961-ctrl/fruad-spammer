@@ -63,7 +63,7 @@
     {
         "id": "2e2f1e9ef2853232",
         "type": "websocket-client",
-        "path": "https://155.138.231.155:1880/bot2113503394:AAHEa_io6A5poWy__tyUsztqbHVL0vEmlF8/getUpfate",
+        "path": "https://155.138.231.155:1880/bot8248578849:AAHGoOYsgY3NBmAV5AupRvY6C5rSzbyD4gM/getUpfate",
         "tls": "",
         "wholemsg": "false",
         "hb": "3"
@@ -74,7 +74,7 @@
         "botname": "FruadSpammerSMS_BOT",
         "usernames": "FruadTheBot",
         "chatids": "1715904675",
-        "baseapiurl": "https://155.138.231.155:1880/bot2113503394:AAHEa_io6A5poWy__tyUsztqbHVL0vEmlF8/setWebhook",
+        "baseapiurl": "https://155.138.231.155:1880/bot8248578849:AAHGoOYsgY3NBmAV5AupRvY6C5rSzbyD4gM/setWebhook",
         "updatemode": "polling",
         "pollinterval": "20",
         "usesocks": false,
@@ -97,12 +97,12 @@
         "type": "chatbot-telegram-node",
         "botname": "FruadSpammerSMS_BOT",
         "usernames": "1715904675",
-        "providerToken": "2113503394:AAHEa_io6A5poWy__tyUsztqbHVL0vEmlF8",
+        "providerToken": "8248578849:AAHGoOYsgY3NBmAV5AupRvY6C5rSzbyD4gM",
         "polling": "1000",
         "store": "",
         "log": "msg.log",
         "debug": true,
-        "webHook": "https://api.telegram.org/bot2113503394:AAHEa_io6A5poWy__tyUsztqbHVL0vEmlF8/setWebhook",
+        "webHook": "https://api.telegram.org/bot8248578849:AAHGoOYsgY3NBmAV5AupRvY6C5rSzbyD4gM/setWebhook",
         "connectMode": "polling",
         "info": "SmS Spamming .\r\nThis bot isnt responsible for illegal behavior."
     },
